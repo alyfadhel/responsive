@@ -7,7 +7,7 @@ class AdaptiveIndicator extends StatelessWidget {
  const AdaptiveIndicator({
    required this.os
   });
-
+  //hello
   @override
   Widget build(BuildContext context) {
     if(os == 'android')
@@ -19,3 +19,11 @@ class AdaptiveIndicator extends StatelessWidget {
 
   }
 }
+
+//login
+
+//1- checkout master
+//2- update master
+//3- create branch
+//4- code .....
+//5- commit
