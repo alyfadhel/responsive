@@ -30,3 +30,4 @@ class AdaptiveIndicator extends StatelessWidget {
 //4- code .....
 //5- commit
 //6- checkout master
+//7- update master
